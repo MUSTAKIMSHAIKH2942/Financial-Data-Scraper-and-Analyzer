@@ -82,7 +82,7 @@ Response:
   "message": "Analysis complete"
 }
 
-image - [https://github.com/MUSTAKIMSHAIKH2942/Financial-Data-Scraper-and-Analyzer/blob/main/image/Screenshot%202025-02-17%20165320.png]
+![Screenshot](https://github.com/MUSTAKIMSHAIKH2942/Financial-Data-Scraper-and-Analyzer/blob/main/image/Screenshot%202025-02-17%20165320.png)
 
 Database
 The application uses an SQLite database to store scraped data. The database file is named scraped_data.db and is created automatically if it doesn't already exist.
